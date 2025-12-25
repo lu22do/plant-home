@@ -1,5 +1,17 @@
 # plant-home
 
+A basic React web app built with Vite and Firebase for server state.
+
+## Setup
+
+1. Create a Firebase project at https://console.firebase.google.com/
+2. Enable Firestore Database.
+3. Copy `.env.example` to `.env` and fill in your Firebase config values.
+4. Run `npm run dev` to start the development server.
+
+## Build
+
+Run `npm run build` to build the app.
 
 # Rules
 
